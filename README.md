@@ -42,9 +42,9 @@
 
 ## 🚀 精选项目 / Featured Projects
 
-### 🏡 [像素小窝 (Pixel Nest)](https://maxime-1321.github.io)
-> 一个 Minecraft 风格的个人博客 / 作品集（正在建设中）。像素风 UI、简洁博客布局，目标支持自定义皮肤与小组件。
-> *A Minecraft-style personal blog/portfolio (WIP). Pixelated UI, clean layout, aiming to support custom skins and widgets.*
+### 🏡 [像素小窝 (Pixel Nest)](https://blog-soyabun.pages.dev)
+> 一个 Minecraft 风格的个人博客 / 作品集（正在建设中,由于本人电脑水平很平庸，当然去请教Deepseek蓝色大肥鱼等AI大大啦~ww）。像素风 UI、简洁博客布局，目标支持自定义皮肤与小组件。
+> *A Minecraft-style personal blog/portfolio (WIP,Since my computer skills are pretty mediocre, of course I'll go ask AI experts like Deepseek and the big blue fatty fish~ ww). Pixelated UI, clean layout, aiming to support custom skins and widgets.*
 
 ### 🎧 OC 有声故事企划 (OC Audio Drama Project)
 > 原创角色（OC）同人有声书制作中。利用 AI 技术生成声音，结合个人设定，每周五/日在喜马拉雅与 B站更新。
